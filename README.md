@@ -1,2 +1,4 @@
 # hello-world-
-Hello world test project
+Hi all !
+
+Serhiy Tyndyk here! I like JavaScript, HTML, CSS! 
